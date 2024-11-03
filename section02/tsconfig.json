@@ -4,8 +4,9 @@
     "module": "ESNext",
     "outDir": "dist",
     "strict": true,
+//    "strictNullChecks": false // null 타입이 아닌 변수에 null 허용
     "moduleDetection": "force",
-    "skipLibCheck": true
+    "skipLibCheck": true,
   },
   "include": ["src"]
 }

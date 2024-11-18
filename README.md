@@ -31,3 +31,8 @@ section6
 - chapter0.js : 자바스크립트 클래스
 - chapter1.ts : 타입스크립트 클래스
 - chapter2.ts : 접근제어자
+- chapter3.ts : 인터페이스와 클래스
+
+section7
+- chapter0.ts : 제네릭
+- chapter1.ts : 타입 변수 응용

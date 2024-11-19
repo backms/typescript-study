@@ -1,8 +1,5 @@
-section1
-
-
-section2
-
+section1~2
+- 타입스크립트 기본
 
 section3
 - chapter2.ts : 타입 집합
@@ -36,3 +33,5 @@ section6
 section7
 - chapter0.ts : 제네릭
 - chapter1.ts : 타입 변수 응용
+- chapter2.ts : map, forEach 메서드 타입
+- chapter3.ts : 제네릭 인터페이스 & 제네릭 타입 별칭

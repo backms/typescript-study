@@ -35,3 +35,5 @@ section7
 - chapter1.ts : 타입 변수 응용
 - chapter2.ts : map, forEach 메서드 타입
 - chapter3.ts : 제네릭 인터페이스 & 제네릭 타입 별칭
+- chapter4.ts : 제네릭 클래스
+- chapter5.ts : 제네릭 + 프로미스
